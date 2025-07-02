@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Moysés Voss
 - 👀 estou interessado em aprender Python e desenvolvimento web (HTML, CSS, JavaScript e PHP)
-- 🌱 Python, HTML, CSS, JavaScript, linux e começarei a estudar segurança de dados e PHP em quetão de poucos meses
+- 🌱 Python, React, HTML, CSS, JavaScript, linux, mySQL e PostgreSQL
 - 💞️ gostaria de colaborar na elaboração de sites. Principalmente no front-end
 - 📫 sou estudante do Instituto Federal caatarinense, em Concórdia
 - ⚡ sou baterista, gosto de mexer em computadores e personaliza-los e amo jogar jogos de mundo aberto

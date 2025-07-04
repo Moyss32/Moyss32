@@ -1,10 +1,7 @@
-👋 Oi, sou Moysés H. Voss — estudante técnico em Informática para Internet no IFC Concórdia
-🚀 Apaixonado por programação: focado em Python, JavaScript (React, Node.js), HTML, CSS e PHP
-🔧 Curto desenvolver tanto back-end quanto front-end, mas minha praia é construir lógica sólida por trás dos sites
-💾 Experiência com bancos de dados MySQL, PostgreSQL e ambiente Linux — sempre aprendendo mais sobre infraestrutura e servidores
-🎵 Baterista nas horas vagas, porque ritmo e lógica combinam mais do que muita gente imagina
-🎮 Gamer de mundo aberto, viciado em tecnologia, hardware e personalização de PCs
-📚 Moderadamente ambicioso, mas sempre buscando evoluir com foco e disciplina
-🌱 Atualmente explorando computação quântica, IA, e desenvolvimento de assistentes digitais em Python
-🤝 Aberto a colaborações em projetos desafiadores, especialmente que envolvam lógica, automação e sistemas web
-📫 Quer trocar ideia sobre código, tecnologia, música ou até aquele papo reto sobre futuro? Tô na área!
+Olá, meu nome é Moysés H. Voss e sou estudante do curso Técnico em Informática para Internet no Instituto Federal Catarinense, campus Concórdia. Tenho uma paixão genuína por programação e atualmente foco meus estudos em Python, JavaScript (especialmente React e Node.js), HTML e CSS. Gosto tanto de desenvolver o front-end quanto o back-end, mas minha paixão está em construir uma lógica robusta por trás dos sistemas.
+
+Tenho experiência com bancos de dados MySQL e PostgreSQL, além de trabalhar em ambientes Linux, sempre buscando ampliar meus conhecimentos em infraestrutura e servidores. Fora do mundo da programação, sou baterista, porque acredito que ritmo e lógica estão mais conectados do que muita gente imagina. Também sou gamer, especialmente de jogos de mundo aberto, e tenho um interesse forte por hardware e personalização de computadores.
+
+Sou moderadamente ambicioso e trabalho para evoluir com foco, disciplina. Atualmente, me aprofundo em pesquisar e estudar temas avançados como IA e mecatronica, sempre buscando aplicar esses conhecimentos em projetos reais.
+
+Estou aberto a colaborações que desafiem minha capacidade, principalmente em áreas que envolvam lógica, automação e sistemas web. Se quiser trocar uma ideia sobre programação, tecnologia, música ou mesmo sobre planejamento de futuro, estou por aqui.
